@@ -9,6 +9,5 @@ class InicioController extends Controller
 {
     public function index(){
         return view('catalogo');
-        
     }
 }
